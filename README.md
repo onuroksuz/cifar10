@@ -1,7 +1,7 @@
 # cifar10
 Mini Cifar10 Modal
 The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes. There are 6,000 images for each class.
-It is used in computer algorithms for recognizing objects in photographs. CIFAR-10 is a series of images that can be used to teach a computer how to recognize objects.
+It used in computer algorithms for recognizing objects in photographs. CIFAR-10 is a series of images that may be use to teach a computer how to recognize objects.
 Images in CIFAR-10 are low resolution (32x32x3)
 
 In this project, I classified images from the CIFAR-10 dataset. 
